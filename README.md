@@ -11,8 +11,8 @@
 
 - 🎓 BSc Software Engineering graduate from **UNILAK**, Kigali, Rwanda
 - 💼 Full Stack Developer with experience in frontend & backend development
-- 🌍 Based in **Kigali, Rwanda** — open to **remote opportunities worldwide**
-- 🔭 Currently working on **TrackMission** — a full-stack mission tracking system
+- 🌍 Based in **Kigali, Rwanda** open to **remote opportunities worldwide**
+- 🔭 Currently working on **TrackMission** a full-stack mission tracking system
 - 📫 Reach me at **minanidanny28@gmail.com**
 - ⚡ Passionate about building reliable, scalable software solutions
 
